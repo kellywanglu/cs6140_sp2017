@@ -41,9 +41,10 @@ Each assignment or report, both electronic copy and hard copy, is due at the beg
 Grades will be determined based on three assignments, one course project, one open-book exam, and participation:
 
 * Assignments (30%): three assignments, each of 10%
-* Project (35%): team of 2 to 3 students, reports (5%+10%+10%), final presentation (10%)
+* Quiz (10%): ten small and quick in-class tests, each of 1%
+* Project (27%): team of 2 to 3 students, proposal (2%), reports (10%+10%), final presentation (5%)
 * Exam (30%): open-book
-* Participation (5%): classes, Piazza
+* Participation (3%): classes, Piazza
  
 
 ## Schedule
