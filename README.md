@@ -65,20 +65,20 @@ Grades will be determined based on three assignments, ten in-class tests, one co
 
 #### Jan 26
 * Topic: Bayesian Statistics and Frequentist Statistics
-* Project proposal report due
 * Slides: [[Download]](slides_cs6140_sp17/cs6140_lec3.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec3_6pp.pdf)
 * Reading: Murphy CH 5.1-5.3, 6.1, 6.4
+* Project proposal report due
 
 
 #### Feb 2
 * Topic: Perceptron, Support Vector Machines, Kernels, Statistical Learning Theory
 * Slides: [[Download]](slides_cs6140_sp17/cs6140_lec4.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec4_6pp.pdf)
-* Assignment 1 due
 
 
 #### Feb 9
 * Topic: Deep Learning
 * Slides: [[Download]](slides_cs6140_sp17/cs6140_lec5.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec5_6pp.pdf)
+* Assignment 1 due
 * TODO: assignment 2 is released [[pdf]](material_cs6140_sp17/cs6140sp17-assignment2.pdf) [[dataset(.zip)]](material_cs6140_sp17/a2_datasets.tar.gz)
 
 
@@ -90,48 +90,50 @@ Grades will be determined based on three assignments, ten in-class tests, one co
 #### Feb 23
 * Topic: Dimensionality Reduction
 * Slides: [[Download]](slides_cs6140_sp17/cs6140_lec7.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec7_6pp.pdf)
-* Assignment 2 due
 
 
 #### Mar 2
 * Topic: Clustering
 * Slides: [[Download]](slides_cs6140_sp17/cs6140_lec8.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec8_6pp.pdf)
+* Assignment 2 due
+* TODO: assignment 3 is released [[pdf]](material_cs6140_sp17/cs6140sp16-assignment3.pdf) [[dataset(.zip)]](material_cs6140_sp17/a3_datasets.zip)
 
 
 #### Mar 9 (No Class: Spring Break)
-* Project progress report due (no hard copy required)
-* TODO: assignment 3 is released [[pdf]](material_cs6140_sp17/cs6140sp16-assignment3.pdf) [[dataset(.zip)]](material_cs6140_sp17/a3_datasets.zip)
+
 
 
 #### Mar 16
 * Topic: Structured Output Prediction
 * Slides: [[Download]](slides_cs6140_sp17/cs6140_lec9.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec9_6pp.pdf)
+* Project progress report due
 
 
 #### Mar 23
 * Topic: Mixture Models and Expectation Maximization
-* Slides: [[Download]](slides_cs6140_sp16/cs6140_lec10.pdf) [[6pp version]](slides_cs6140_sp16/cs6140_lec10_6pp.pdf)
-* Assignment 3 due
+* Slides: [[Download]](slides_cs6140_sp17/cs6140_lec10.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec10_6pp.pdf)
+
   
 #### Mar 30
 * Topic: Reinforcement Learning
-* Slides: [[Download]](slides_cs6140_sp16/cs6140_lec10.pdf) [[6pp version]](slides_cs6140_sp16/cs6140_lec10_6pp.pdf)
-* Exam guideline: [[Download]](slides_cs6140_sp16/exam_guideline.pdf)
+* Slides: [[Download]](slides_cs6140_sp17/cs6140_lec11.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec11_6pp.pdf)
+* Assignment 3 due
 
 
 #### Apr 6
 * Topic: Representation Learning
-* Slides: [[Download]](slides_cs6140_sp16/cs6140_lec11.pdf) [[6pp version]](slides_cs6140_sp16/cs6140_lec11_6pp.pdf)
+* Slides: [[Download]](slides_cs6140_sp17/cs6140_lec12.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec12_6pp.pdf)
+* Exam guideline: [[Download]](slides_cs6140_sp17/exam_guideline.pdf)
 
 
 #### Apr 13
 * Topic: Course Project Presentation
-* Project final report due on April 18 (no hard copy required)
+
 
 
 #### Apr 20
 * Topic: Exam
-
+* Project final report due
 
 
 ## Academic Integrity 
