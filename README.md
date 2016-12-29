@@ -23,6 +23,7 @@
 * Clustering: spectral clustering, hierachical clustering
 * Latent Variable Models: K-means, mixture models, expectation-maximization (EM) algorithms, Latent Dirichlet Allocation (LDA), representation learning
 * Deep Learning: feedforward neural network, restricted Boltzmann machine, autoencoders, recurrent neural network, convolutional neural network
+* Reinforcement Learning: Markov decision processes, Q-learning
 * and others, including advanced topics for machine learning in natural language processing and text analysis
 
 #### Textbooks and Reference
@@ -39,7 +40,7 @@ This course is designed for graduate students majoring in computer science, appl
 ## Grading
 Each assignment or report, both electronic copy and hard copy, is due at the beginning of class on the corresponding due date. Hard copies are submitted in class. Assignment or report turned in late will be charged 10 points (out of 100 points) off for each late day (i.e. 24 hours). Each student has a budget of 5 days throughout the semester before a late penalty is applied. You may want to use it wisely, e.g. save for emergencies. 
 
-Grades will be determined based on three assignments, one course project, one open-book exam, and participation:
+Grades will be determined based on three assignments, ten in-class tests, one course project, one open-book exam, and participation:
 
 * Assignments (30%): three assignments, each of 10%
 * Quiz (10%): ten quick in-class tests, each of 1%
@@ -51,71 +52,71 @@ Grades will be determined based on three assignments, one course project, one op
 ## Schedule
 #### Jan 12
 * Topic: Introduction, basic concepts, K-nearest neighbors, linear regression, ridge regression
-* Slides: [[Download]](slides_cs6140_sp16/cs6140_lec1.pdf) [[6pp version]](slides_cs6140_sp16/cs6140_lec1_6pp.pdf)
+* Slides: [[Download]](slides_cs6140_sp17/cs6140_lec1.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec1_6pp.pdf)
 * Reading: Murphy CH 1, 2, 7
 * TODO: start thinking about projects and looking for teammates
 
 #### Jan 19
 * Topic: Logistic Regression, Decision Tree, Generative Models (Naive Bayes)
-* Slides: [[Download]](slides_cs6140_sp16/cs6140_lec2.pdf) [[6pp version]](slides_cs6140_sp16/cs6140_lec2_6pp.pdf)
+* Slides: [[Download]](slides_cs6140_sp17/cs6140_lec2.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec2_6pp.pdf)
 * Reading: Murphy CH 3, 8.1-8.3, 8.6, 16.2
-* TODO: assignment 1 is released [[pdf]](material_cs6140_sp16/cs6140sp16-assignment1.pdf) [[dataset(.zip)]](material_cs6140_sp16/a1_datasets.zip)
+* TODO: assignment 1 is released [[pdf]](material_cs6140_sp17/cs6140sp17-assignment1.pdf) [[dataset(.zip)]](material_cs6140_sp17/a1_datasets.zip)
  
 
 #### Jan 26
 * Topic: Bayesian Statistics and Frequentist Statistics
 * Project proposal report due
-* Slides: [[Download]](slides_cs6140_sp16/cs6140_lec3.pdf) [[6pp version]](slides_cs6140_sp16/cs6140_lec3_6pp.pdf)
+* Slides: [[Download]](slides_cs6140_sp17/cs6140_lec3.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec3_6pp.pdf)
 * Reading: Murphy CH 5.1-5.3, 6.1, 6.4
 
 
 #### Feb 2
 * Topic: Perceptron, Support Vector Machines, Kernels, Statistical Learning Theory
-* Slides: [[Download]](slides_cs6140_sp16/cs6140_lec4.pdf) [[6pp version]](slides_cs6140_sp16/cs6140_lec4_6pp.pdf)
+* Slides: [[Download]](slides_cs6140_sp17/cs6140_lec4.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec4_6pp.pdf)
 * Assignment 1 due
 
 
 #### Feb 9
 * Topic: Deep Learning
-* Slides: [[Download]](slides_cs6140_sp16/cs6140_lec5.pdf) [[6pp version]](slides_cs6140_sp16/cs6140_lec5_6pp.pdf)
-* TODO: assignment 2 is released [[pdf]](material_cs6140_sp16/cs6140sp16-assignment2.pdf) [[dataset(.zip)]](material_cs6140_sp16/a2_datasets.tar.gz)
+* Slides: [[Download]](slides_cs6140_sp17/cs6140_lec5.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec5_6pp.pdf)
+* TODO: assignment 2 is released [[pdf]](material_cs6140_sp17/cs6140sp17-assignment2.pdf) [[dataset(.zip)]](material_cs6140_sp17/a2_datasets.tar.gz)
 
 
 #### Feb 16
 * Topic: Deep Learning
-* Slides: [[Download]](slides_cs6140_sp16/cs6140_lec6.pdf) [[6pp version]](slides_cs6140_sp16/cs6140_lec6_6pp.pdf)
+* Slides: [[Download]](slides_cs6140_sp17/cs6140_lec6.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec6_6pp.pdf)
 
 
 #### Feb 23
 * Topic: Dimensionality Reduction
-* Slides: [[Download]](slides_cs6140_sp16/cs6140_lec7.pdf) [[6pp version]](slides_cs6140_sp16/cs6140_lec7_6pp.pdf)
-* Assignment 2 (part 1) due
-* Assignment 2 (part 2) due on Mar 2
+* Slides: [[Download]](slides_cs6140_sp17/cs6140_lec7.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec7_6pp.pdf)
+* Assignment 2 due
 
 
 #### Mar 2
 * Topic: Clustering
-* Slides: [[Download]](slides_cs6140_sp16/cs6140_lec8.pdf) [[6pp version]](slides_cs6140_sp16/cs6140_lec8_6pp.pdf)
+* Slides: [[Download]](slides_cs6140_sp17/cs6140_lec8.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec8_6pp.pdf)
 
 
 #### Mar 9 (No Class: Spring Break)
 * Project progress report due (no hard copy required)
-* TODO: assignment 3 is released [[pdf]](material_cs6140_sp16/cs6140sp16-assignment3.pdf) [[dataset(.zip)]](material_cs6140_sp16/a3_datasets.zip)
+* TODO: assignment 3 is released [[pdf]](material_cs6140_sp17/cs6140sp16-assignment3.pdf) [[dataset(.zip)]](material_cs6140_sp17/a3_datasets.zip)
 
 
 #### Mar 16
 * Topic: Structured Output Prediction
-* Slides: [[Download]](slides_cs6140_sp16/cs6140_lec9.pdf) [[6pp version]](slides_cs6140_sp16/cs6140_lec9_6pp.pdf)
+* Slides: [[Download]](slides_cs6140_sp17/cs6140_lec9.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec9_6pp.pdf)
 
 
 #### Mar 23
 * Topic: Mixture Models and Expectation Maximization
 * Slides: [[Download]](slides_cs6140_sp16/cs6140_lec10.pdf) [[6pp version]](slides_cs6140_sp16/cs6140_lec10_6pp.pdf)
-* Exam guideline: [[Download]](slides_cs6140_sp16/exam_guideline.pdf)
 * Assignment 3 due
   
 #### Mar 30
-
+* Topic: Reinforcement Learning
+* Slides: [[Download]](slides_cs6140_sp16/cs6140_lec10.pdf) [[6pp version]](slides_cs6140_sp16/cs6140_lec10_6pp.pdf)
+* Exam guideline: [[Download]](slides_cs6140_sp16/exam_guideline.pdf)
 
 
 #### Apr 6
