@@ -1,6 +1,6 @@
 # CS 6140: Machine Learning
 
-**Time and Location:** Thursdays from 6:00 pm to 9:00 pm in 
+**Time and Location:** Thursdays from 6:00 pm to 9:00 pm in Forsyth Building 129
 
 **Instructor**: [Lu Wang](http://www.ccs.neu.edu/home/luwang/), Office 448 WVH
 
@@ -9,7 +9,7 @@
 * Prof. Lu Wang, Thursdays from 4:30pm to 5:30pm, or by appointment, 448 WVH
 * TBD (TA, email: TBD), TBD
 
-**Discussion Forum**: [Piazza](http://piazza.com/northeastern/spring2016/cs6140/home), sign up at [http://piazza.com/northeastern/spring2016/cs6140](http://piazza.com/northeastern/spring2016/cs6140)
+**Discussion Forum**: [Piazza](piazza.com/northeastern/spring2017/cs614002/home), sign up at [piazza.com/northeastern/spring2017/cs614002](piazza.com/northeastern/spring2017/cs614002)
 
 
 ## Course Description
@@ -25,10 +25,11 @@
 * Deep Learning: feedforward neural network, restricted Boltzmann machine, autoencoders, recurrent neural network, convolutional neural network
 * and others, including advanced topics for machine learning in natural language processing and text analysis
 
-#### Textbook and References
-* Main Textbook: Kevin Murphy, "Machine Learning - a Probabilistic Perspective", MIT Press, 2012.
-* Other References: 
+#### Textbooks and Reference
+* Main Textbooks
+ * Kevin Murphy, "Machine Learning - a Probabilistic Perspective", MIT Press, 2012.
  * Christopher M. Bishop, "Pattern Recognition and Machine Learning", Springer, 2006.
+* Other Reference: 
  * Tom Mitchell, "Machine Learning", McGraw Hill, 1997.
  
 #### Prerequisites
@@ -41,7 +42,7 @@ Each assignment or report, both electronic copy and hard copy, is due at the beg
 Grades will be determined based on three assignments, one course project, one open-book exam, and participation:
 
 * Assignments (30%): three assignments, each of 10%
-* Quiz (10%): ten small and quick in-class tests, each of 1%
+* Quiz (10%): ten quick in-class tests, each of 1%
 * Project (27%): team of 2 to 3 students, proposal (2%), reports (10%+10%), final presentation (5%)
 * Exam (30%): open-book
 * Participation (3%): classes, Piazza
