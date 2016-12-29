@@ -1,4 +1,5 @@
 # CS 6140: Machine Learning
+======
 
 **Time and Location:** Thursdays from 6:00 pm to 9:00 pm in Forsyth Building 129
 
