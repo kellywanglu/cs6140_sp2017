@@ -13,7 +13,6 @@
 
 
 ## Course Description
-------
 
 #### Content
 * Regression: linear regression, logistic regression
