@@ -11,9 +11,9 @@
 
 **Discussion Forum**: [Piazza](piazza.com/northeastern/spring2017/cs614002/home), sign up at [piazza.com/northeastern/spring2017/cs614002](piazza.com/northeastern/spring2017/cs614002)
 
-
+_______
 ## Course Description
-
+_______
 #### Content
 * Regression: linear regression, logistic regression
 * Dimensionality Reduction: Principal Component Analysis (PCA), Independent Component Analysis (ICA), Linear Discriminant Analysis
