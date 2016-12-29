@@ -13,7 +13,7 @@
 
 _______
 ## Course Description
-_______
+
 #### Content
 * Regression: linear regression, logistic regression
 * Dimensionality Reduction: Principal Component Analysis (PCA), Independent Component Analysis (ICA), Linear Discriminant Analysis
@@ -37,7 +37,7 @@ _______
 #### Prerequisites
 This course is designed for graduate students majoring in computer science, applied math, and other related areas. Students who take this coruse are expected to be able to write code in some programming languages (e.g. Python, Java, C/C++) proficiently, and finish courses in algorithms (CS 5800 or CS 7800), multivariable calculus, probability, statistics, and linear algebra.
 
-
+_______
 ## Grading
 Each assignment or report, both electronic copy and hard copy, is due at the beginning of class on the corresponding due date. Hard copies are submitted in class. Assignment or report turned in late will be charged 10 points (out of 100 points) off for each late day (i.e. 24 hours). Each student has a budget of 5 days throughout the semester before a late penalty is applied. You may want to use it wisely, e.g. save for emergencies. 
 
@@ -49,7 +49,7 @@ Grades will be determined based on three assignments, ten in-class tests, one co
 * Exam (30%): open-book
 * Participation (3%): classes, Piazza
  
-
+_______
 ## Schedule
 #### Jan 12
 * Topic: Introduction, basic concepts, K-nearest neighbors, linear regression, ridge regression
@@ -136,7 +136,7 @@ Grades will be determined based on three assignments, ten in-class tests, one co
 * Topic: Exam
 * Project final report due
 
-
+_______
 ## Academic Integrity 
 This course follows the [Northeastern University Academic Integrity Policy](http://www.northeastern.edu/osccr/academic-integrity-policy/). All students in this course are expected to abide by the Academic Integrity Policy. Any work submitted by a student in this course for academic credit should be the student's own work. Collaborations are allowed only if explicitly permitted. Violations of the rules (e.g. cheating, fabrication, plagiarism) will be reported.
 
