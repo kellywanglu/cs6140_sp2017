@@ -13,7 +13,7 @@
 
 _______
 ## Important Announcement
-* We will have a quiz with 20 simple This quiz will be graded, but will not be counted in your final score if you’re enrolled in CS6140. The purpose of this quiz is to indicate the expected prior background of students. For calibration, 80% of the questions should be easy to answer. If you struggled with this quiz, it’s possible that you may need to catch up on the background or it may be preferable to take one or two introductory courses. 
+* [1/1/2017] We will have a quiz with 20 simple This quiz will be graded, but will not be counted in your final score if you’re enrolled in CS6140. The purpose of this quiz is to indicate the expected prior background of students. For calibration, 80% of the questions should be easy to answer. If you struggled with this quiz, it’s possible that you may need to catch up on the background or it may be preferable to take one or two introductory courses. 
 
 _______
 ## Course Description
