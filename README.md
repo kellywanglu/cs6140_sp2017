@@ -13,7 +13,7 @@
 
 _______
 ## Important Announcement
-* [1/1/2017] We will have a quiz with 20 simple True or False questions in the first class (1/12/2017). This quiz will be graded, but will not be counted in your final score if you’re enrolled in CS6140. The purpose of this quiz is to indicate the expected prior background of students. For calibration, 80% of the questions should be easy to answer. If you struggled with this quiz, it’s possible that you may need to catch up on the background or it may be preferable to take one or two introductory courses. For students previously do not take any algorithm course (CS 5800 or CS 7800, see Prerequisites), an 80% or above score is required to enroll in this course.
+* [1/1/2017] We will have a quiz with 20 simple True or False questions (relevant to probability, statistics, and linear algebra) in the first class (1/12/2017). This quiz will be graded, but will not be counted in your final score if you’re enrolled in CS6140. The purpose of this quiz is to indicate the expected prior background of students. For calibration, 80% of the questions should be easy to answer. If you struggled with this quiz, it’s possible that you may need to catch up on the background or it may be preferable to take one or two introductory courses. For students previously do not take any algorithm course (CS 5800 or CS 7800, see Prerequisites), an 80% or above score is required to enroll in this course.
 
 _______
 ## Course Description
