@@ -9,7 +9,7 @@
 * Prof. Lu Wang, Thursdays from 4:30pm to 5:30pm, or by appointment, 448 WVH
 * TBD (TA, email: TBD), TBD
 
-**Discussion Forum**: [Piazza](piazza.com/northeastern/spring2017/cs614002/home), sign up at [piazza.com/northeastern/spring2017/cs614002](piazza.com/northeastern/spring2017/cs614002)
+**Discussion Forum**: [Piazza](http://piazza.com/northeastern/spring2017/cs614002/home), sign up at [piazza.com/northeastern/spring2017/cs614002](http://piazza.com/northeastern/spring2017/cs614002)
 
 _______
 ## Important Announcement
