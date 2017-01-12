@@ -7,13 +7,13 @@
 **Staff and Office Hours**: 
 
 * Prof. Lu Wang, Thursdays from 4:30pm to 5:30pm, or by appointment, 448 WVH
-* TBD (TA, email: TBD), TBD
+* Rui Dong (TA, email: dongrui@ccs.neu.edu), Tuesdays from 4pm to 5pm, location:TBD
 
 **Discussion Forum**: [Piazza](http://piazza.com/northeastern/spring2017/cs614002/home), sign up at [piazza.com/northeastern/spring2017/cs614002](http://piazza.com/northeastern/spring2017/cs614002)
 
 _______
 ## Important Announcement
-* [1/1/2017] We will have a quiz with 20 simple True or False questions (relevant to probability, statistics, and linear algebra) in the first class (1/12/2017). This quiz will be graded, but will not be counted in your final score if you’re enrolled in CS6140. The purpose of this quiz is to indicate the expected background of students. 80% of the questions should be easy to answer. If you find yourself struggling with this quiz, it’s possible that you need to catch up on the background or it may be preferable to take one or two preliminary courses. For students previously do not take any algorithm course (CS 5800 or CS 7800, see Prerequisites), an 80% or above is required to enroll in this course.
+* [1/1/2017] We will have a quiz with 22 simple questions, 20 of them as True or False questions (relevant to probability, statistics, and linear algebra) in the first class (1/12/2017). This quiz will be graded, but will not be counted in your final score if you’re enrolled in CS6140. The purpose of this quiz is to indicate the expected background of students. 80% of the questions should be easy to answer. If you find yourself struggling with this quiz, it’s possible that you need to catch up on the background or it may be preferable to take one or two preliminary courses. For students previously do not take any algorithm course (CS 5800 or CS 7800, see Prerequisites), an 80% or above is required to enroll in this course.
 
 _______
 ## Course Description
@@ -33,13 +33,14 @@ _______
 
 #### Textbooks and Reference
 * Main Textbooks
- * Kevin Murphy, "Machine Learning - a Probabilistic Perspective", MIT Press, 2012.
  * Christopher M. Bishop, "Pattern Recognition and Machine Learning", Springer, 2006.
+ * Kevin Murphy, "Machine Learning - a Probabilistic Perspective", MIT Press, 2012.
+
 * Other Reference: 
  * Tom Mitchell, "Machine Learning", McGraw Hill, 1997.
  
 #### Prerequisites
-This course is designed for graduate students majoring in computer science, applied math, and other related areas. Students who take this coruse are expected to be able to write code in some programming languages (e.g. Python, Java, C/C++) proficiently, and finish courses in algorithms (CS 5800 or CS 7800), multivariable calculus, probability, statistics, and linear algebra.
+This course is designed for graduate students majoring in computer science, applied math, and other related areas. Students who take this course are expected to be able to write code in some programming languages (e.g. Python, Java, C/C++) proficiently, and finish courses in algorithms (CS 5800 or CS 7800), multivariable calculus, probability, statistics, and linear algebra.
 
 _______
 ## Grading
@@ -58,20 +59,20 @@ _______
 #### Jan 12
 * Topic: Introduction, basic concepts, K-nearest neighbors, linear regression, ridge regression
 * Slides: [[Download]](slides_cs6140_sp17/cs6140_lec1.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec1_6pp.pdf)
-* Reading: Murphy CH 1, 2, 7
+* Reading: 
 * TODO: start thinking about projects and looking for teammates
 
 #### Jan 19
 * Topic: Logistic Regression, Decision Tree, Generative Models (Naive Bayes)
 * Slides: [[Download]](slides_cs6140_sp17/cs6140_lec2.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec2_6pp.pdf)
-* Reading: Murphy CH 3, 8.1-8.3, 8.6, 16.2
+* Reading: 
 * TODO: assignment 1 is released [[pdf]](material_cs6140_sp17/cs6140sp17-assignment1.pdf) [[dataset(.zip)]](material_cs6140_sp17/a1_datasets.zip)
  
 
 #### Jan 26
 * Topic: Bayesian Statistics and Frequentist Statistics
 * Slides: [[Download]](slides_cs6140_sp17/cs6140_lec3.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec3_6pp.pdf)
-* Reading: Murphy CH 5.1-5.3, 6.1, 6.4
+* Reading: 
 * Project proposal report due
 
 
