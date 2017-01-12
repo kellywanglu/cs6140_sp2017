@@ -33,8 +33,8 @@ _______
 
 #### Textbooks and Reference
 * Main Textbooks
- * Christopher M. Bishop, "Pattern Recognition and Machine Learning", Springer, 2006.
  * Kevin Murphy, "Machine Learning - a Probabilistic Perspective", MIT Press, 2012.
+ * Christopher M. Bishop, "Pattern Recognition and Machine Learning", Springer, 2006.
 
 * Other Reference: 
  * Tom Mitchell, "Machine Learning", McGraw Hill, 1997.
