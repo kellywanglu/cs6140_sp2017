@@ -7,7 +7,7 @@
 **Staff and Office Hours**: 
 
 * Prof. Lu Wang, Thursdays from 4:30pm to 5:30pm, or by appointment, 448 WVH
-* Rui Dong (TA, email: dongrui@ccs.neu.edu), Tuesdays from 4pm to 5pm, location:TBD
+* Rui Dong (TA, email: dongrui@ccs.neu.edu), Tuesdays from 4pm to 5pm, 466B WVH
 
 **Discussion Forum**: [Piazza](http://piazza.com/northeastern/spring2017/cs614002/home), sign up at [piazza.com/northeastern/spring2017/cs614002](http://piazza.com/northeastern/spring2017/cs614002)
 
@@ -59,7 +59,7 @@ _______
 #### Jan 12
 * Topic: Introduction, basic concepts, K-nearest neighbors, linear regression, ridge regression
 * Slides: [[Download]](slides_cs6140_sp17/cs6140_lec1.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec1_6pp.pdf)
-* Reading: 
+* Reading: Murphy CH1, CH2, CH7 (sections covered in the lecture)
 * TODO: start thinking about projects and looking for teammates
 
 #### Jan 19
