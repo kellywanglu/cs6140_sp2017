@@ -65,7 +65,7 @@ _______
 #### Jan 19
 * Topic: Logistic Regression, Decision Tree, Generative Models (Naive Bayes)
 * Slides: [[Download]](slides_cs6140_sp17/cs6140_lec2.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec2_6pp.pdf)
-* Reading: 
+* Reading: Murphy CH 3, 8.1-8.3, 8.6
 * TODO: assignment 1 is released [[pdf]](material_cs6140_sp17/cs6140sp17-assignment1.pdf) [[dataset(.zip)]](material_cs6140_sp17/a1_datasets.zip)
 
 #### Jan 26
