@@ -78,26 +78,25 @@ _______
 * Slides: [[Download]](slides_cs6140_sp17/cs6140_lec4.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec4_6pp.pdf)
 
 #### Feb 9
-* Topic: Deep Learning
-* Slides: [[Download]](slides_cs6140_sp17/cs6140_lec5.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec5_6pp.pdf)
+* Topic: CLASS CANCELLED due to heavy snowstorm
 * Assignment 1 due
-* TODO: assignment 2 is released [[pdf]](material_cs6140_sp17/cs6140sp17-assignment2.pdf) [[dataset(.zip)]](material_cs6140_sp17/a2_datasets.tar.gz)
+* TODO: assignment 2 is released on Feb 13th [[pdf]](material_cs6140_sp17/cs6140sp17-assignment2.pdf) [[dataset(.zip)]](material_cs6140_sp17/a2_datasets.tar.gz)
 
 
 
 #### Feb 16
-* Topic: Bayesian Statistics and Frequentist Statistics
-* Slides: [[Download]](slides_cs6140_sp17/cs6140_lec6.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec6_6pp.pdf)
+* Topic: Deep Learning
+* Slides: [[Download]](slides_cs6140_sp17/cs6140_lec5.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec5_6pp.pdf)
 
 
 #### Feb 23
 * Topic: Dimensionality Reduction
-* Slides: [[Download]](slides_cs6140_sp17/cs6140_lec7.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec7_6pp.pdf)
+* Slides: [[Download]](slides_cs6140_sp17/cs6140_lec6.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec6_6pp.pdf)
 
 
 #### Mar 2
 * Topic: Clustering
-* Slides: [[Download]](slides_cs6140_sp17/cs6140_lec8.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec8_6pp.pdf)
+* Slides: [[Download]](slides_cs6140_sp17/cs6140_lec7.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec7_6pp.pdf)
 * Assignment 2 due
 * TODO: assignment 3 is released [[pdf]](material_cs6140_sp17/cs6140sp16-assignment3.pdf) [[dataset(.zip)]](material_cs6140_sp17/a3_datasets.zip)
 
@@ -108,24 +107,24 @@ _______
 
 #### Mar 16
 * Topic: Structured Output Prediction
-* Slides: [[Download]](slides_cs6140_sp17/cs6140_lec9.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec9_6pp.pdf)
+* Slides: [[Download]](slides_cs6140_sp17/cs6140_lec8.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec8_6pp.pdf)
 * Project progress report due
 
 
 #### Mar 23
 * Topic: Mixture Models and Expectation Maximization
-* Slides: [[Download]](slides_cs6140_sp17/cs6140_lec10.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec10_6pp.pdf)
+* Slides: [[Download]](slides_cs6140_sp17/cs6140_lec9.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec9_6pp.pdf)
 
   
 #### Mar 30
 * Topic: Reinforcement Learning
-* Slides: [[Download]](slides_cs6140_sp17/cs6140_lec11.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec11_6pp.pdf)
+* Slides: [[Download]](slides_cs6140_sp17/cs6140_lec10.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec10_6pp.pdf)
 * Assignment 3 due
 
 
 #### Apr 6
 * Topic: Representation Learning
-* Slides: [[Download]](slides_cs6140_sp17/cs6140_lec12.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec12_6pp.pdf)
+* Slides: [[Download]](slides_cs6140_sp17/cs6140_lec11.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec11_6pp.pdf)
 * Exam guideline: [[Download]](slides_cs6140_sp17/exam_guideline.pdf)
 
 
