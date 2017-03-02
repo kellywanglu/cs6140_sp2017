@@ -98,7 +98,7 @@ _______
 * Topic: Clustering
 * Slides: [[Download]](slides_cs6140_sp17/cs6140_lec7.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec7_6pp.pdf)
 * Assignment 2 due
-* TODO: assignment 3 is released [[pdf]](material_cs6140_sp17/cs6140sp16-assignment3.pdf) [[dataset(.zip)]](material_cs6140_sp17/a3_datasets.zip)
+* TODO: assignment 3 is released [[pdf]](material_cs6140_sp17/cs6140sp17-assignment3.pdf) [[dataset(.zip)]](material_cs6140_sp17/a3_datasets.zip)
 
 
 #### Mar 9 (No Class: Spring Break)
@@ -112,12 +112,12 @@ _______
 
 
 #### Mar 23
-* Topic: Mixture Models and Expectation Maximization
+* Topic: Reinforcement Learning
 * Slides: [[Download]](slides_cs6140_sp17/cs6140_lec9.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec9_6pp.pdf)
 
   
 #### Mar 30
-* Topic: Reinforcement Learning
+* Topic: Mixture Models and Expectation Maximization
 * Slides: [[Download]](slides_cs6140_sp17/cs6140_lec10.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec10_6pp.pdf)
 * Assignment 3 due
 
