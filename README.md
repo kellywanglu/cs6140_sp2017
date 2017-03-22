@@ -112,12 +112,12 @@ _______
 
 
 #### Mar 23
-* Topic: Reinforcement Learning
+* Topic: Mixture Models, Expectation Maximization, Latent Variable Models
 * Slides: [[Download]](slides_cs6140_sp17/cs6140_lec9.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec9_6pp.pdf)
 
   
 #### Mar 30
-* Topic: Mixture Models and Expectation Maximization
+* Topic: Reinforcement Learning
 * Slides: [[Download]](slides_cs6140_sp17/cs6140_lec10.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec10_6pp.pdf)
 * Assignment 3 due
 
@@ -135,7 +135,7 @@ _______
 
 #### Apr 20
 * Topic: Exam
-* Project final report due
+* Project final report due on April 24th
 
 _______
 ## Academic Integrity 
