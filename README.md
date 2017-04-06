@@ -123,7 +123,7 @@ _______
 
 
 #### Apr 6
-* Topic: Representation Learning
+* Topic: Reinforcement Learning
 * Slides: [[Download]](slides_cs6140_sp17/cs6140_lec11.pdf) [[6pp version]](slides_cs6140_sp17/cs6140_lec11_6pp.pdf)
 * Exam guideline: [[Download]](slides_cs6140_sp17/exam_guideline.pdf)
 
